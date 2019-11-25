@@ -1,4 +1,4 @@
-language: javascript
+#language: javascript
 deploy:
   provider: pages
   skip_cleanup: true
