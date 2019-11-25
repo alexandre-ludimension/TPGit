@@ -1,5 +1,5 @@
 language: javascript
-script: echo "Success!"
+#script: echo "Success!"
 deploy:
     provider: pages
     skip_cleanup: true
